@@ -1,4 +1,5 @@
 Personal portfolio website showcasing my projects, skills, education, certifications, and contact information. Built using HTML, CSS, JavaScript, and responsive design principles.
+
 This is a Next.js project bootstrapped with create-next-app.
 
 Getting Started
